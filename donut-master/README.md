@@ -7,11 +7,11 @@
 
 Dự án này được xây dựng nhằm **tự động trích xuất metadata** (thông tin mô tả) từ các loại tài liệu, hình ảnh hoặc file PDF. Metadata có thể bao gồm:
 
-* Tiêu đề
-* Tác giả
-* Ngày tạo / chỉnh sửa
-* Định dạng file
-* Thông tin nhận dạng nội dung (tags, keywords)
+- Tiêu đề
+- Tác giả
+- Ngày tạo / chỉnh sửa
+- Định dạng file
+- Thông tin nhận dạng nội dung (tags, keywords)
 
 ## ⚙️ Công nghệ sử dụng
 
